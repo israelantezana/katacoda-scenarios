@@ -16,6 +16,7 @@
     "environment": {
         "hidefinish": true,
         "idePort": 23000,
+        "showide": true,
         "uilayout": "vscode-terminal-split"
     },
     "backend": {
