@@ -14,10 +14,10 @@
         }
     },
     "environment": {
-        "hidefinish": true,
-        "idePort": 23000,
         "showide": true,
-        "uilayout": "vscode-terminal-split"
+        "idePort": 23000,
+        "uilayout": "terminal"
+        "hidefinish": true,
     },
     "backend": {
         "imageid": "nodejs:12"
