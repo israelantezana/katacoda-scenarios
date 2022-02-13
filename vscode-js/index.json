@@ -13,13 +13,13 @@
             "credits": ""
         }
     },
+    
     "environment": {
         "showide": true,
         "idePort": 23000,
         "uilayout": "terminal"
-        "hidefinish": true
     },
     "backend": {
-        "imageid": "nodejs:12"
+        "imageid": "ubuntu:2004"
     }
 }
