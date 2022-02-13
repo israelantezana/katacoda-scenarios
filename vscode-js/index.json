@@ -17,7 +17,7 @@
         "showide": true,
         "idePort": 23000,
         "uilayout": "terminal"
-        "hidefinish": true,
+        "hidefinish": true
     },
     "backend": {
         "imageid": "nodejs:12"
