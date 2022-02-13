@@ -1,25 +1,23 @@
 {
-  "title": "VSCode and JS",
-  "description": "VSCode environment for JS",
-  "difficulty": "Beginner",
-  "time": "60 minutes",
-  "details": {
-    "steps": [
-      {
-        "title": "Step 1",
-        "text": "step1.md"
-      }
-    ],
-    "intro": {
-      "text": "intro.md"
+    "noindex": true,
+    "title": "VSCode and JS,
+    "description": "VSCode environment for JS",
+    "details": {
+        "steps": [
+            {
+                "text": "step1.md"
+            }
+        ],
+        "intro": {
+            "text": "intro.md",
+            "credits": ""
+        }
+    },
+    "environment": {
+        "hidefinish": true,
+        "uilayout": "vscode-terminal-split"
+    },
+    "backend": {
+        "imageid": "nodejs:12"
     }
-  },
-  "environment": {
-   "hideintro": true,
-    "showide": true,
-    "uilayout": "terminal"
-  },
-  "backend": {
-    "imageid": "nodejs:16"
-  }
 }
