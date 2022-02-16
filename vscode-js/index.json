@@ -17,7 +17,8 @@
     "environment": {
         "showide": true,
         "idePort": 23000,
-        "uilayout": "terminal"
+        "uilayout": "terminal",
+        "uieditorpath": "/root/csd-docker-js"
     },
     "backend": {
         "imageid": "ubuntu:2004"
